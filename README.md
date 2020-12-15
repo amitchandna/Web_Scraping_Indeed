@@ -18,7 +18,7 @@ The packages that were used throughout this project were as follows
 * NumPy
 * Seaborn
 
-Based on the results, it seems as though a simmilar standard of living is provided to Data Scientists across the world within their home country. However when it comes to international standards, the salaries are not comparable with western salaries being much higher than their counterparts elsewhere. It is good to know this as it shows that so long as the individual does not have an inclination to exist across the world, the standard of life that is provided is the same everywhere they are. 
+Based on the results, it seems as though a simmilar standard of living is provided to Data Scientists across the world within their home country. However when it comes to international standards, the salaries are not comparable with western salaries being much higher than their counterparts elsewhere. With this in mind, the salary that is provided to an Indian Data Scientist in India is similar to that of an American or Canadian Data Scientist in the United States or Canada. This is interesting as it can serve as an indicator that the desire for this work across the world is about the same. This calculation does hinge upon the belief that the PPP that was provided by OECD is indeed an accurate way of assessing the value of the pound, dollar, and rupee against each other.  
 
 
 NB: This web scraper was created in the summer of 2020, and it was quite common to have the salary posted alongside the job posting at this time. However currently, it is far more difficult to pull a salary with a web scrape as the salaries are not listed as frequently as they used to be listed on indeed.com. 
